@@ -49,3 +49,4 @@ Run the following command: pip install -r requirements.txt
 After completing these steps, your Django NLP Tool should be ready to run! 🚀
 
 Important: Before running the project, go to the settings.py file in the LEMATIZATZAILEA folder and change "DEBUG = False" to "DEBUG = True". The DEBUG attribute must be set to False for production, but when running the project locally, it is recommended to set DEBUG to True.
+⚠ Note: If DEBUG is not set to True, you may encounter issues.
